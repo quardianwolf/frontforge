@@ -1,5 +1,5 @@
 {
-  "name": "@atilladev/frontforge",
+  "name": "@quardianwolf/frontforge",
   "version": "0.1.0",
   "description": "MCP server for scaffolding Next.js & Expo/React Native projects with Atomic Design, React Query, and TypeScript",
   "type": "module",

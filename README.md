@@ -24,7 +24,7 @@ Add to your MCP configuration:
   "mcpServers": {
     "frontforge": {
       "command": "npx",
-      "args": ["@atilladev/frontforge"]
+      "args": ["@quardianwolf/frontforge"]
     }
   }
 }
@@ -230,6 +230,12 @@ Test locally:
   }
 }
 ```
+
+## Links
+
+- [npm](https://www.npmjs.com/package/@quardianwolf/frontforge)
+- [GitHub](https://github.com/quardianwolf/frontforge)
+- [Website](https://frontforge.atilla.dev)
 
 ## License
 
